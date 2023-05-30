@@ -775,9 +775,15 @@
         "TeacherNameEn":"Yee-Ming Chen",
         "ClassTime":"103 (2603) 104 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN212",
@@ -827,9 +833,15 @@
         "TeacherNameEn":"MING-YANG HSU",
         "ClassTime":"401 (3304) 402 (3304)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN245",
@@ -840,9 +852,15 @@
         "TeacherNameEn":"Sau-Mou Wu",
         "ClassTime":"206 (3212) 207 (3212)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN254",
@@ -866,9 +884,15 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (70110) 504 (70110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN410",
@@ -879,9 +903,15 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (70110) 507 (70110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN416",
@@ -931,9 +961,15 @@
         "TeacherNameEn":null,
         "ClassTime":"208 (3304) 209 (3304)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN422",
@@ -944,9 +980,15 @@
         "TeacherNameEn":null,
         "ClassTime":"309 (3216) 310 (3216)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN424",
@@ -957,9 +999,15 @@
         "TeacherNameEn":"LO,YU-TSUNG",
         "ClassTime":"206 (3306) 207 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN425",
@@ -996,9 +1044,15 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (1115) 204 (1115)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS206",
@@ -1009,9 +1063,15 @@
         "TeacherNameEn":"Shih-Wen Kung",
         "ClassTime":"307 (3216) 308 (3216)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS211",
@@ -1022,9 +1082,15 @@
         "TeacherNameEn":"Chiu-Yu Chung",
         "ClassTime":"406 (3103) 407 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS214",
@@ -1035,9 +1101,15 @@
         "TeacherNameEn":"jethou",
         "ClassTime":"103 (2606) 104 (2606)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS341",
@@ -1074,9 +1146,15 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"103 (60203) 104 (60203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS349",
@@ -1087,9 +1165,15 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"203 (1113) 204 (1113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS372",
@@ -1113,9 +1197,15 @@
         "TeacherNameEn":null,
         "ClassTime":"408 (60312) 409 (60312)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS372",
@@ -1126,9 +1216,15 @@
         "TeacherNameEn":null,
         "ClassTime":"508 (3208) 509 (3208)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS375",
@@ -1139,9 +1235,15 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"303 (2112) 304 (2112)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS396",
@@ -1152,9 +1254,15 @@
         "TeacherNameEn":"Georg Hartich",
         "ClassTime":"508 (2101) 509 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS418",
@@ -1165,9 +1273,15 @@
         "TeacherNameEn":"Hsin-Lin Chen",
         "ClassTime":"109 (2008) 110 (2008)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS418",
@@ -1204,9 +1318,15 @@
         "TeacherNameEn":null,
         "ClassTime":"201 (1115) 202 (1115)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS426",
@@ -1217,9 +1337,15 @@
         "TeacherNameEn":"Chiu-Yu Chung",
         "ClassTime":"408 (3103) 409 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS427",
@@ -1230,9 +1356,15 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"103 (2621) 104 (2621)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS427",
@@ -1243,9 +1375,15 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"106 (2621) 107 (2621)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS430",
@@ -1256,9 +1394,15 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"301 (2423) 302 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS430",
@@ -1269,9 +1413,15 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"303 (2423) 304 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS434",
@@ -1282,9 +1432,15 @@
         "TeacherNameEn":"Georg Hartich",
         "ClassTime":"503 (3310) 504 (3310)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS445",
@@ -1295,9 +1451,15 @@
         "TeacherNameEn":"jethou",
         "ClassTime":"106 (2606) 107 (2606)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS446",
@@ -1321,9 +1483,15 @@
         "TeacherNameEn":"Hsiu-Lien,Chien",
         "ClassTime":"208 (1111) 209 (1111)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID001",
@@ -1347,9 +1515,15 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"403 (2005) 404 (2005)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID001",
@@ -1360,9 +1534,15 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"403 (3304) 404 (3304)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID003",
@@ -1373,9 +1553,15 @@
         "TeacherNameEn":null,
         "ClassTime":"108 (2425) 109 (2425)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID004",
@@ -1386,9 +1572,15 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (2603) 504 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID005",
@@ -1399,9 +1591,15 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (2011) 507 (2011)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID006",
@@ -1425,9 +1623,15 @@
         "TeacherNameEn":null,
         "ClassTime":"406 (1109) 407 (1109)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID008",
@@ -1438,9 +1642,15 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (1102) 504 (1102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID008",
@@ -1451,9 +1661,15 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (60203) 507 (60203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID009",
@@ -1464,9 +1680,15 @@
         "TeacherNameEn":null,
         "ClassTime":"206 (2104) 207 (2104)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID009",
@@ -1490,9 +1712,15 @@
         "TeacherNameEn":null,
         "ClassTime":"106 (1204) 107 (1204)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE113",
@@ -1542,9 +1770,15 @@
         "TeacherNameEn":"Chang-Hsiang Sun",
         "ClassTime":"206 (2115) 207 (2115)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE330",
@@ -1555,9 +1789,15 @@
         "TeacherNameEn":null,
         "ClassTime":"401 (70203) 402 (70203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE330",
@@ -1568,9 +1808,15 @@
         "TeacherNameEn":null,
         "ClassTime":"206 (1111) 207 (1111)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE348",
@@ -1581,9 +1827,15 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"203 (2603) 204 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE348",
@@ -1594,9 +1846,15 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"206 (2603) 207 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE357",
@@ -1607,9 +1865,15 @@
         "TeacherNameEn":null,
         "ClassTime":"103 (5103) 104 (5103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE357",
@@ -1620,9 +1884,15 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (5103) 204 (5103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE387",
@@ -1646,9 +1916,15 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"106 (3306) 107 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE406",
@@ -1659,9 +1935,15 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"108 (3306) 109 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE415",
@@ -1685,9 +1967,15 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"408 (3105) 409 (3105)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE419",
@@ -1698,9 +1986,15 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"106 (3114) 107 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE419",
@@ -1711,9 +2005,15 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"108 (3114) 109 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE422",
@@ -1737,9 +2037,15 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"201 (2603) 202 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE425",
@@ -1750,9 +2056,15 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"401 (2606) 402 (2606)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE428",
@@ -1789,9 +2101,15 @@
         "TeacherNameEn":null,
         "ClassTime":"106 (2425) 107 (2425)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE438",
@@ -1815,9 +2133,15 @@
         "TeacherNameEn":null,
         "ClassTime":"403 (3110) 404 (3110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LE446",
@@ -1867,9 +2191,15 @@
         "TeacherNameEn":"Li-Fen Huang",
         "ClassTime":"206 (2112) 207 (2112)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS204",
@@ -1880,9 +2210,15 @@
         "TeacherNameEn":null,
         "ClassTime":"406 (2423) 407 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS206",
@@ -1893,9 +2229,15 @@
         "TeacherNameEn":"Yuh-Chia Chang",
         "ClassTime":"403 (2101) 404 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS209",
@@ -2062,9 +2404,15 @@
         "TeacherNameEn":"Shan-Yu Chen",
         "ClassTime":"106 (3310) 107 (3310)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS233",
@@ -2075,9 +2423,15 @@
         "TeacherNameEn":null,
         "ClassTime":"303 (1109) 304 (1109)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS236",
@@ -2127,9 +2481,15 @@
         "TeacherNameEn":null,
         "ClassTime":"303 (1115) 304 (1115)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS241",
@@ -2140,9 +2500,15 @@
         "TeacherNameEn":null,
         "ClassTime":"307 (1213) 308 (1213)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS242",
