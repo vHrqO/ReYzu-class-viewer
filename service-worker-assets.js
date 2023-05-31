@@ -153,7 +153,7 @@
       "url": "old\/icon-512.png"
     },
     {
-      "hash": "sha256-DFw2xTjJJrt\/DG4yd1aDL1Z3JoMx1DJrF6\/H9q2H2Q0=",
+      "hash": "sha256-KMOhHBUkB0pnWGgTd59A1iEZLVvu5CAdTy6fv+2dif0=",
       "url": "sw-registrator.js"
     },
     {
@@ -1889,5 +1889,5 @@
       "url": "_content\/BlazorPro.BlazorSize\/blazorSizeResizeModule.js"
     }
   ],
-  "version": "+KnJz3fU"
+  "version": "zi7cZl9r"
 };

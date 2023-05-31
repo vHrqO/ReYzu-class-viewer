@@ -15,10 +15,8 @@
             setInterval(() =>
             {
                 console.log("Service worker - check for update");
-                console.log(registration);
-
                 registration.update();
-            }, 20 * 1000); // 60000ms -> check every 1 minute
+            }, 60 * 1000); // 60000ms -> check every 1 minute
 
 
             registration.onupdatefound = () =>
