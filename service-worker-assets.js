@@ -105,7 +105,7 @@
       "url": "img\/reaction\/5_1f970.svg"
     },
     {
-      "hash": "sha256-qM62wUwDpwlNeRrpluuoGm7U1co+bXlDddB2GA+m2qY=",
+      "hash": "sha256-rx58xyUtoGXrW1pDcWqFGr+5upsYPcHxTHr392Hq+gc=",
       "url": "index.html"
     },
     {
@@ -1889,5 +1889,5 @@
       "url": "_content\/BlazorPro.BlazorSize\/blazorSizeResizeModule.js"
     }
   ],
-  "version": "8HvsUocj"
+  "version": "sRJIpNC+"
 };
