@@ -113,7 +113,7 @@
       "url": "js\/components.js"
     },
     {
-      "hash": "sha256-oF47rLn0UYXy1EMP7QHkVO8UCwh8FoD8KP56SoIEg6Y=",
+      "hash": "sha256-EyvARSj+ApNZXYLlA3YtSCZvDhr78vA18O7SfLHU0Lg=",
       "url": "js\/waline.js"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-OrUm+A\/id6aKYe1rUjqaxqBBWrIz1TOINBY20WJvFYA=",
+      "hash": "sha256-Njrzn2fhp59FbbooeyTLr8lhaQxczK9OxQ67PolUyFE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/OneOf.dll"
     },
     {
-      "hash": "sha256-AY0OTaN3MemK2nlVU4IeACgyzEwMyKVdHw1OVWZ+5NI=",
+      "hash": "sha256-LyLjeB28WMeEkvctjedvX9zEzxstc84ehXROFkxbxKY=",
       "url": "_framework\/ReYzuClassViewer.dll"
     },
     {
@@ -397,7 +397,7 @@
       "url": "_framework\/dotnet.7.0.5.bciv64h61t.js"
     },
     {
-      "hash": "sha256-gQuOOEdy5VSxiPWIsM5aESjqcjKgIiHKpaUMINhr4Rs=",
+      "hash": "sha256-3E+UU0Wa6ygTzgN44T08VPxOan2jI7ycwEUWcw3B70Y=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -1889,5 +1889,5 @@
       "url": "_content\/BlazorPro.BlazorSize\/blazorSizeResizeModule.js"
     }
   ],
-  "version": "1Jm4ug0l"
+  "version": "9d5cUj6f"
 };

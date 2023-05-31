@@ -28,11 +28,11 @@ export function load()
         },
 
         reaction: [
-            '/img/reaction/1_1f616.svg',
-            '/img/reaction/2_1f641.svg',
-            '/img/reaction/3_1f610.svg',
-            '/img/reaction/4_1f600.svg',
-            '/img/reaction/5_1f970.svg',
+            './img/reaction/1_1f616.svg',
+            './img/reaction/2_1f641.svg',
+            './img/reaction/3_1f610.svg',
+            './img/reaction/4_1f600.svg',
+            './img/reaction/5_1f970.svg',
         ],
 
     });
