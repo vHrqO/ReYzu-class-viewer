@@ -14,6 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
+      - name: t
+        working-directory: ./scripts
+        run: pwd
+        
       - run: pwd
       - run: ls
       
@@ -29,9 +33,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install pipenv
       
-      - run: cd scripts
-      - run: pwd
-      - run: ls
+      - name: t
+        working-directory: ./scripts
+        run: |
+          pwd
+          ls
       
 #       - run: pipenv install
 #       - run: pipenv graph
