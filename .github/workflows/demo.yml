@@ -13,11 +13,7 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-      
-      - name: t
-        working-directory: ./scripts
-        run: pwd
-        
+              
       - run: pwd
       - run: ls
       
@@ -39,8 +35,12 @@ jobs:
           pwd
           ls
       
-#       - run: pipenv install
-#       - run: pipenv graph
+      - name: t1
+        working-directory: ./scripts
+        run: |
+          pipenv install
+          pipenv graph
+
       
       
       
