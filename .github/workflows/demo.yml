@@ -30,10 +30,11 @@ jobs:
           pip install pipenv
       
       - run: cd scripts
+      - run: pwd
       - run: ls
       
-      - run: pipenv install
-      - run: pipenv graph
+#       - run: pipenv install
+#       - run: pipenv graph
       
       
       
