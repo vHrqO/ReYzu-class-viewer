@@ -105,7 +105,7 @@
       "url": "img\/reaction\/5_1f970.svg"
     },
     {
-      "hash": "sha256-rbeFwhwflmiHg9L+7nN451db6pPFJezdXmLy03dEQ9o=",
+      "hash": "sha256-yqHFuROLD+1UOHXogYPrjUmabUohsonYTnTlmys58n4=",
       "url": "index.html"
     },
     {
@@ -137,7 +137,7 @@
       "url": "logo\/logo-720.png"
     },
     {
-      "hash": "sha256-FdhKR9NrNSJTn\/v7IAj4z+b7PGosvde9n6fkoTMMxg4=",
+      "hash": "sha256-WG5lhauwmtmpEiLC2s2JblYzLnS+jMmnxwDWmDBsJQ8=",
       "url": "manifest.json"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Njrzn2fhp59FbbooeyTLr8lhaQxczK9OxQ67PolUyFE=",
+      "hash": "sha256-K456jZn\/UpDi17GHJ1QLU2nVFim5k3s5acTtaa79hUA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -201,7 +201,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll"
     },
     {
-      "hash": "sha256-bB6O1skifq+74j9RyMRfweBeD+JxP\/rtjbZPvzUzaV8=",
+      "hash": "sha256-G9bLDINl14AviOixllXLVbEYeHnFrC92tepq1pDy2Uo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -209,11 +209,11 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-MbBOWBTPsR9KwfPIbhQlDlcsNPnLZhF6QZYOdePUFxk=",
+      "hash": "sha256-PabIOyq\/vWAiRD9hMUMg0CHS8HE4\/uM+a2DSSQMMrnM=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-GFbpqOuBwvoBLDkKz0NNqvX\/hTPMEDA2zJS6tJsNhfk=",
+      "hash": "sha256-td5nxUZfrtcUO9zDMscN98ZYpCGzVFkyKoDW4crjHEA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/OneOf.dll"
     },
     {
-      "hash": "sha256-LyLjeB28WMeEkvctjedvX9zEzxstc84ehXROFkxbxKY=",
+      "hash": "sha256-0NtW+yBfPdPHpSQ9mu0VgNdtx6AXXm1qT\/t25+8XSYk=",
       "url": "_framework\/ReYzuClassViewer.dll"
     },
     {
@@ -397,7 +397,7 @@
       "url": "_framework\/dotnet.7.0.5.bciv64h61t.js"
     },
     {
-      "hash": "sha256-3E+UU0Wa6ygTzgN44T08VPxOan2jI7ycwEUWcw3B70Y=",
+      "hash": "sha256-kqXrqNnuWDbaFAb0IRle1tzlYIvHG9OsVIxd0sjxqdU=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -1889,5 +1889,5 @@
       "url": "_content\/BlazorPro.BlazorSize\/blazorSizeResizeModule.js"
     }
   ],
-  "version": "zi7cZl9r"
+  "version": "SUYZasMl"
 };
