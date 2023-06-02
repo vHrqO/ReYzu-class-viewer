@@ -1,0 +1,47 @@
+name: learn-github-actions
+run-name: ${{ github.actor }} is learning GitHub Actions
+
+on:
+  # Manually running a workflow
+  workflow_dispatch
+
+
+jobs:
+
+  check-bats-job:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+              
+      - run: pwd
+      - run: ls
+      
+      - name: Set up Python 
+        uses: actions/setup-python@v4
+        with:
+          # latest           
+          python-version: "*"
+       
+      - run: python --version
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pipenv
+      
+      - name: t
+        working-directory: ./scripts
+        run: |
+          pwd
+          ls
+      
+      - name: t1
+        working-directory: ./scripts
+        run: |
+          pipenv install
+          pipenv graph
+
+      
+      
+      
+      
