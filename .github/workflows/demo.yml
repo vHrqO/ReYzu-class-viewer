@@ -76,6 +76,7 @@ jobs:
       - working-directory: .
         run:  |
            pwd
+           mkdir -p ./main/data/course/
            cp ./data/course/year_semester_list.json ./main/data/course/year_semester_list.json
            
       - working-directory: ./main/data/course
