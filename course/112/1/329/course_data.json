@@ -52,19 +52,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"BI543",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"微生物與生物科技研究方法",
-        "TeacherName":"簡志青",
-        "TeacherNameEn":"Chih-Ching Chien",
-        "ClassTime":"106 () 107 () 108 ()",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"BI554",
         "CourseClass":"A",
         "Degree":1,

@@ -89,5 +89,18 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI102",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"資訊志工訓練-基礎程式設計",
+        "TeacherName":"簡廷因",
+        "TeacherNameEn":"Ting-Ying Chien",
+        "ClassTime":"510 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     }
 ]

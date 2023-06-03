@@ -1,5 +1,18 @@
 [
     {
+        "CourseID":"GI510",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"人機互動設計",
+        "TeacherName":"待聘",
+        "TeacherNameEn":null,
+        "ClassTime":"406 () 407 () 408 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"GI604",
         "CourseClass":"A",
         "Degree":1,
