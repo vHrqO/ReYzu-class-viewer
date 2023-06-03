@@ -37,7 +37,7 @@ jobs:
       
       - name: t1
         working-directory: ./scripts
-        run: >
+        run: |
           pipenv graph
           pipenv install
           
@@ -55,7 +55,7 @@ jobs:
           
       - name: t1
         working-directory: ./scripts
-        run: >
+        run:  |
            ls
           
 
