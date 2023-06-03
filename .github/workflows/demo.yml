@@ -12,58 +12,69 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          path: main
+          
+      - name: Checkout data
+        uses: actions/checkout@v3
+        with:
+          ref: data
+          path: data
+          
               
       - run: pwd
       - run: ls
       
-      - name: Set up Python 
-        uses: actions/setup-python@v4
-        with:
-          # latest           
-          python-version: "*"
+#       - name: Set up Python 
+#         uses: actions/setup-python@v4
+#         with:
+#           # latest           
+#           python-version: "*"
        
-      - run: python --version
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pipenv
+#       - run: python --version
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install pipenv
       
-      - name: t
-        working-directory: ./scripts
-        run: |
-          pwd
-          ls
+#       - name: t
+#         working-directory: ./scripts
+#         run: |
+#           pwd
+#           ls
       
-      - name: t1
-        working-directory: ./scripts
-        run: |
-          pipenv install
+#       - name: t1
+#         working-directory: ./scripts
+#         run: |
+#           pipenv install
           
-      - name: t1
-        working-directory: ./scripts
-        run: |
-          pipenv graph
-          
-          
-      - name: update_year_semester_current
-        working-directory: ./scripts
-        run: |
-          pipenv run python update_year_semester_current.py
+#       - name: t1
+#         working-directory: ./scripts
+#         run: |
+#           pipenv graph
           
           
-      - working-directory: ./scripts
-        run:  |
-           ls
+#       - name: update_year_semester_current
+#         working-directory: ./scripts
+#         run: |
+#           pipenv run python update_year_semester_current.py
           
-      - name: copy
-        working-directory: ./scripts
-        run:  |
-           git checkout data -- course/year_semester_list.json 
+          
+#       - working-directory: ./scripts
+#         run:  |
+#            ls
+          
+#       - name: copy
+#         working-directory: ./scripts
+#         run:  |
+#            git checkout data -- course/year_semester_list.json 
 
-      - working-directory: ./scripts
-        run:  |
-           ls
+#       - working-directory: ./scripts
+#         run:  |
+#            ls
       
      
       
