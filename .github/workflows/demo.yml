@@ -179,9 +179,11 @@ jobs:
            git status
            
       - name: git - commit changed files
+        working-directory: ./data
         run: git commit -m "github action - "
         
       - name: git - push code
+        working-directory: ./data
         run: git push
    
    
