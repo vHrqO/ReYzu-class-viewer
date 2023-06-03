@@ -120,5 +120,40 @@ jobs:
       - working-directory: ./main/scripts/data
         run:  |
            ls  
+           
+     #------------------       
+      - name: update_course_data
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_course_data.py
+          
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           ls 
+           
+     #------------------       
+      - name: merge_course_rating
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python merge_course_rating.py
+          
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           ls 
       
+    #------------------ 
+      - name: copy old file
+        working-directory: .
+        run:  |
+           pwd
+           cp -r ./data/class-viewer ./main/scripts/data/class-viewer
+        
+      - name: update_version
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_version.py
+          
+      - working-directory: ./main/scripts/data/
+        run:  |
+           ls 
       
