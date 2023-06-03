@@ -9,6 +9,7 @@ on:
 jobs:
 
   check-bats-job:
+    environment: Dev
     runs-on: ubuntu-latest
     
     steps:
@@ -104,5 +105,63 @@ jobs:
         run:  |
            ls  
      
+     #------------------       
+      - name: update_rating_data
+        working-directory: ./main/scripts
+        env:
+          database_host: ${{ secrets.DATABASE_HOST }} 
+          database_database: ${{ secrets.DATABASE_DATABASE }} 
+          database_user: ${{ secrets.DATABASE_USER }} 
+          database_password: ${{ secrets.DATABASE_PASSWORD }} 
+          
+        run: |
+          pipenv run python update_rating_data.py
+          
+      - working-directory: ./main/scripts/data
+        run:  |
+           ls  
+           
+     #------------------       
+      - name: update_course_data
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_course_data.py
+          
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           ls 
+           
+     #------------------       
+      - name: merge_course_rating
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python merge_course_rating.py
+          
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           ls 
       
-      
+    #------------------ 
+      - name: copy old file
+        working-directory: .
+        run:  |
+           pwd
+           cp -r ./data/class-viewer ./main/scripts/data/class-viewer
+        
+      - name: update_version
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_version.py
+          
+      - working-directory: ./main/scripts/data/
+        run:  |
+           ls 
+   #------------------    
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           cat ./112/1/701/course_data.json
+   
+   
+   
+   
+   
