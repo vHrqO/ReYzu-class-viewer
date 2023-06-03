@@ -62,28 +62,26 @@ jobs:
         working-directory: ./main/scripts
         run: |
           pipenv graph
-          
+      #----
+      - name: copy old file
+        working-directory: .
+        run:  |
+           pwd
+           cp -r ./data ./main/scripts
+           
+      - working-directory: ./main/scripts
+        run:  |
+           ls
+      
       #------------------        
       - name: update_year_semester_current
         working-directory: ./main/scripts
         run: |
           pipenv run python update_year_semester_current.py
           
-          
-      - working-directory: ./main/scripts
-        run:  |
-           ls
-          
-      - name: copy old file
-        working-directory: .
-        run:  |
-           pwd
-           mkdir -p ./main/data/course/
-           cp ./data/course/year_semester_list.json ./main/scripts/data/course/year_semester_list.json
-           
       - working-directory: ./main/scripts/data
         run:  |
-           ls
+           cat ./course/year_semester_list.json
       
       #------------------       
       - name: update_year_semester_list
@@ -121,7 +119,7 @@ jobs:
         run:  |
            ls  
            
-     #------------------       
+     #------------------           
       - name: update_course_data
         working-directory: ./main/scripts
         run: |
@@ -131,7 +129,7 @@ jobs:
         run:  |
            ls 
            
-     #------------------       
+     #------------------    
       - name: merge_course_rating
         working-directory: ./main/scripts
         run: |
