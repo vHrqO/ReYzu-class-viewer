@@ -37,13 +37,27 @@ jobs:
       
       - name: t1
         working-directory: ./scripts
-        run: |
+        run: >
+          pipenv graph
           pipenv install
           
       - name: t1
         working-directory: ./scripts
         run: |
           pipenv graph
+          
+          
+      - name: t1
+        working-directory: ./scripts
+        run: |
+          pipenv run python update_year_semester_current.py
+          
+          
+      - name: t1
+        working-directory: ./scripts
+        run: >
+           ls
+          
 
       
       
