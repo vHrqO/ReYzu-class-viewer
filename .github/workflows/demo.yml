@@ -157,8 +157,8 @@ jobs:
       - name: to data
         working-directory: .
         run:  |
-           cp -r -f ./main/scripts/data ./data 
-           ls ./data 
+           cp -r -f ./main/scripts/data ./data0
+           ls ./data0
            
       - name: t-----------
         working-directory: ./data
