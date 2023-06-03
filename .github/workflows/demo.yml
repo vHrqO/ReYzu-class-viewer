@@ -34,47 +34,48 @@ jobs:
           pwd
           ls
       
-      - name: Set up Python 
-        uses: actions/setup-python@v4
-        with:
-          # latest           
-          python-version: "*"
+#       - name: Set up Python 
+#         uses: actions/setup-python@v4
+#         with:
+#           # latest           
+#           python-version: "*"
        
-      - run: python --version
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pipenv
+#       - run: python --version
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install pipenv
       
-      - name: ls scripts
-        working-directory: ./main/scripts
-        run: |
-          pwd
-          ls
+#       - name: ls scripts
+#         working-directory: ./main/scripts
+#         run: |
+#           pwd
+#           ls
       
-      - name: pipenv install
-        working-directory: ./main/scripts
-        run: |
-          pipenv install
+#       - name: pipenv install
+#         working-directory: ./main/scripts
+#         run: |
+#           pipenv install
           
-      - name: pipenv graph
-        working-directory: ./main/scripts
-        run: |
-          pipenv graph
+#       - name: pipenv graph
+#         working-directory: ./main/scripts
+#         run: |
+#           pipenv graph
           
           
-      - name: update_year_semester_current
-        working-directory: ./main/scripts
-        run: |
-          pipenv run python update_year_semester_current.py
+#       - name: update_year_semester_current
+#         working-directory: ./main/scripts
+#         run: |
+#           pipenv run python update_year_semester_current.py
           
           
       - working-directory: ./main/scripts
         run:  |
            ls
           
-      - working-directory: ./
+      - working-directory: .
         run:  |
+           pwd
            cp ./data/course/year_semester_list.json ./main/data/course/year_semester_list.json
            
       - working-directory: ./main/data/course
