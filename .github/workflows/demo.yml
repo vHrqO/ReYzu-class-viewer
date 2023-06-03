@@ -154,6 +154,12 @@ jobs:
            cat ./111/2/701/course_data.json
    
    #
+      - name: to data
+        working-directory: .
+        run:  |
+           cp -r -f ./main/scripts/data ./data 
+           ls ./data 
+           
       - name: t-----------
         working-directory: ./data
         run:  |
