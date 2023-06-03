@@ -9,6 +9,7 @@ on:
 jobs:
 
   check-bats-job:
+    environment: Dev
     runs-on: ubuntu-latest
     
     steps:
@@ -104,5 +105,20 @@ jobs:
         run:  |
            ls  
      
+     #------------------       
+      - name: update_rating_data
+        working-directory: ./main/scripts
+        env:
+          database_host: ${{ secrets.DATABASE_HOST }} 
+          database_database: ${{ secrets.DATABASE_DATABASE }} 
+          database_user: ${{ secrets.DATABASE_USER }} 
+          database_password: ${{ secrets.DATABASE_PASSWORD }} 
+          
+        run: |
+          pipenv run python update_rating_data.py
+          
+      - working-directory: ./main/scripts/data
+        run:  |
+           ls  
       
       
