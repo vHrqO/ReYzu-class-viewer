@@ -19,10 +19,10 @@ import pathlib
 #region get data from database
 
 # Connect to the database
-connection = pymysql.connect(host=os.environ["host"],
-                             user=os.environ["user"],
-                             password=os.environ["password"],
-                             database=os.environ["database"],
+connection = pymysql.connect(host=os.environ["database_host"],
+                             user=os.environ["database_user"],
+                             password=os.environ["database_password"],
+                             database=os.environ["database_database"],
                              charset='utf8mb4',
                              ssl_ca=R'/etc/ssl/certs/ca-certificates.crt',
                              cursorclass=pymysql.cursors.DictCursor)
