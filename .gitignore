@@ -1,8 +1,8 @@
 # Ignore Visual Studio files
-/ReYzuClassViewer/.vs
-/ReYzuClassViewer/ReYzuClassViewer/bin
-/ReYzuClassViewer/obj
-/ReYzuClassViewer/Properties/PublishProfiles/FolderProfile.pubxml.user
+/*/.vs
+/*/*/bin
+/*/*/obj
+/*/Properties/PublishProfiles/FolderProfile.pubxml.user
 
 #
 /tests
