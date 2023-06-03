@@ -46,19 +46,25 @@ jobs:
           pipenv graph
           
           
-      - name: t1
+      - name: update_year_semester_current
         working-directory: ./scripts
         run: |
           pipenv run python update_year_semester_current.py
           
           
-      - name: t1
-        working-directory: ./scripts
+      - working-directory: ./scripts
         run:  |
            ls
           
+      - name: copy
+        working-directory: ./scripts
+        run:  |
+           git checkout data -- course/year_semester_list.json 
 
+      - working-directory: ./scripts
+        run:  |
+           ls
       
-      
+     
       
       
