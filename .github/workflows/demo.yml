@@ -73,7 +73,13 @@ jobs:
         run:  |
            ls
           
-
+      - working-directory: ./main/scripts
+        run:  |
+           cp /data/course/year_semester_list.json /main/data/course/year_semester_list.json
+           
+      - working-directory: ./main/data/course
+        run:  |
+           ls
       
      
       
