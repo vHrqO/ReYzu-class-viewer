@@ -139,30 +139,37 @@ jobs:
 #         run:  |
 #            ls 
       
-#     #------------------         
-#       - name: update_version
-#         working-directory: ./main/scripts
-#         run: |
-#           pipenv run python update_version.py
+    #------------------         
+      - name: update_version
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_version.py
           
-#       - working-directory: ./main/scripts/data/
-#         run:  |
-#            ls 
+      - working-directory: ./main/scripts/data/
+        run:  |
+           ls 
    #------------------    
       - working-directory: ./main/scripts/data/course
         run:  |
            cat ./111/2/701/course_data.json
    
    #
-      - name: t
+      - name: t-----------
         working-directory: ./data
         run:  |
            git branch
    #git
       - name: git
-        working-directory: ./main/scripts/data/course
+        working-directory: ./data
         run:  |
-           cat ./111/2/701/course_data.json
+           git add class-viewer
+           git add course
+           git add rating
+           
+      - name: git - check for changes
+        working-directory: ./data
+        run:  |
+           git status
    
    
    
