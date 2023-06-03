@@ -100,6 +100,16 @@ def merge_rating( df_course_data: pd.DataFrame , df_rating_data: pd.DataFrame ) 
     df_course_data["TeacherNameEn"] = df_course_data.loc[ : , "TeacherName"].apply( split_TeacherName_en )
     df_course_data["TeacherName"] = df_course_data.loc[ : , "TeacherName"].apply( split_TeacherName )
 
+    # if already merge , drop old
+    if "CourseRatingCount" in df_course_data.columns:
+
+        df_course_data.drop( ["CourseRatingCount","CourseRating","CourseRatingPercentages"] ,axis="columns" , inplace=True )
+ 
+    # prevent merge() convert int to float because unmatched records in the join (NaN)
+    # https://stackoverflow.com/questions/38444480/how-to-prevent-pandas-from-converting-my-integers-to-floats-when-i-merge-two-dat
+    # convert type to Int64 that can contain nan
+    df_rating_data['CourseRatingCount'] = df_rating_data['CourseRatingCount'].astype('Int64')
+
     # merge course_data and rating_data
     # left join
     df_merge = df_course_data.merge( df_rating_data , how="left" )
@@ -107,10 +117,6 @@ def merge_rating( df_course_data: pd.DataFrame , df_rating_data: pd.DataFrame ) 
     # reorder
     columns_order = ['CourseID','CourseClass','Degree',  'CourseName','TeacherName','TeacherNameEn','ClassTime',  'TypeName',  'CourseRatingCount','CourseRating','CourseRatingPercentages']
     df_merge = df_merge[ columns_order ]
-
-    # prevent merge() convert int to float because unmatched records in the join (NaN)
-    # https://stackoverflow.com/questions/38444480/how-to-prevent-pandas-from-converting-my-integers-to-floats-when-i-merge-two-dat
-    df_merge.update( df_merge.loc[ : , "CourseRatingCount"].astype("Int64") )
 
     # to json
     result_json = df_merge.to_json( orient="records" , force_ascii=False , indent=4 )
