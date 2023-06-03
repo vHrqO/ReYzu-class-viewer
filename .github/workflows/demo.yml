@@ -62,7 +62,7 @@ jobs:
         run: |
           pipenv graph
           
-          
+      #------------------        
       - name: update_year_semester_current
         working-directory: ./main/scripts
         run: |
@@ -90,10 +90,19 @@ jobs:
         run: |
           pipenv run python update_year_semester_list.py
           
-      - working-directory: ./main/data/course
+      - working-directory: ./main/scripts/data
         run:  |
            ls  
       
+      #------------------       
+      - name: update_department_list
+        working-directory: ./main/scripts
+        run: |
+          pipenv run python update_department_list.py
+          
+      - working-directory: ./main/scripts/data
+        run:  |
+           ls  
      
       
       
