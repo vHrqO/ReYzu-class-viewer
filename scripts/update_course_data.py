@@ -125,7 +125,9 @@ for year_semester in year_semester_list:
     _year = year_semester["Year"]
     _semester = year_semester["Semester"]
 
-
+    # 
+    if _year != "112" and _semester != "1":
+        continue
     # create folder - year
     year_path = file_folder / _year
     pathlib.Path.mkdir( year_path , exist_ok=True )
