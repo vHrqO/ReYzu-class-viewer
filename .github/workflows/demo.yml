@@ -156,4 +156,12 @@ jobs:
       - working-directory: ./main/scripts/data/
         run:  |
            ls 
-      
+   #------------------    
+      - working-directory: ./main/scripts/data/course
+        run:  |
+           cat ./112/1/701/course_data.json
+   
+   
+   
+   
+   
