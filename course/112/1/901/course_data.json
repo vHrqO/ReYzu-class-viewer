@@ -403,19 +403,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GS450",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"企業永續發展概論",
-        "TeacherName":"尤淨纓",
-        "TeacherNameEn":"Ching-Ying Yu",
-        "ClassTime":"406 () 407 ()",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"FC003",
         "CourseClass":"N",
         "Degree":1,
@@ -1052,6 +1039,19 @@
         "CourseName":"數位媒體素養、思考與實踐",
         "TeacherName":"唐允中",
         "TeacherNameEn":null,
+        "ClassTime":"406 () 407 ()",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GS450",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"企業永續發展概論",
+        "TeacherName":"尤淨纓",
+        "TeacherNameEn":"Ching-Ying Yu",
         "ClassTime":"406 () 407 ()",
         "TypeName":"通識教育課程",
         "CourseRatingCount":null,
