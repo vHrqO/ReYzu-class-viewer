@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  Class Viewer and Comment System for YZU curriculum based on Blazor WebAssembly.
+  Class viewer and comment system for YZU curriculum based on Blazor WebAssembly.
 
   ![GitHub Workflow Status - update data](https://img.shields.io/github/actions/workflow/status/vHrqO/ReYzu-class-viewer/update_data.yml)
   ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/vHrqO/ReYzu-class-viewer?include_prereleases)
