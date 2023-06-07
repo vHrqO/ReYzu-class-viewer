@@ -15,8 +15,14 @@
   ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/vHrqO/ReYzu-class-viewer?include_prereleases)
   ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vHrqO/ReYzu-class-viewer/data?label=data%20-%20last%20commit)
   ![GitHub](https://img.shields.io/github/license/vHrqO/ReYzu-class-viewer)
- 
+  
+  <img src="https://i.imgur.com/2ULGCbU.png" width=85% >
+  
 </div>
+
+
+
+
 
 ![screenshot](https://i.imgur.com/2ULGCbU.png)
 
