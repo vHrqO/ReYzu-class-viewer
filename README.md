@@ -17,3 +17,9 @@
   ![GitHub](https://img.shields.io/github/license/vHrqO/ReYzu-class-viewer)
  
 </div>
+
+![screenshot](https://i.imgur.com/2ULGCbU.png)
+
+
+
+
